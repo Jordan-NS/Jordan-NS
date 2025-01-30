@@ -37,7 +37,7 @@ Confira meus repositórios para ver alguns dos projetos em que tenho trabalhado,
 
 Sinta-se à vontade para entrar em contato comigo para colaborações ou oportunidades!
 
-[LinkedIn](https://www.linkedin.com/in/nicholas-jordan-a72767186/) | [Portfolio](jordann.dev)
+[LinkedIn](https://www.linkedin.com/in/nicholas-jordan-a72767186/) | [Portfolio](https://jordann.dev)
 
 ---
 
