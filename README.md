@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 
-Sou especializado em desenvolvimento moderno, com foco em aplicações performáticas e responsivas. Minha experiência abrange tanto o front-end quanto o back-end, permitindo-me criar soluções completas e integradas.
+Sou especializado em desenvolvimento, com foco em aplicações performáticas e responsivas. Minha experiência abrange tanto o front-end quanto o back-end, permitindo-me criar soluções completas e integradas.
 
 ## 💻 Tecnologias e Ferramentas
 
