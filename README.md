@@ -37,9 +37,21 @@ Confira meus repositórios para ver alguns dos projetos em que tenho trabalhado,
 
 Sinta-se à vontade para entrar em contato comigo para colaborações ou oportunidades!
 
-[LinkedIn](https://www.linkedin.com/in/nicholas-jordan-a72767186/) | [Portfolio](https://jordann.dev)
+<div>
+<a href="https://www.linkedin.com/in/nicholas-jordan-a72767186/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://jordann.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+</div>
 
 ---
 
 💡 "Código limpo sempre parece que foi escrito por alguém que se importa." - Robert C. Martin
+
+
+
+
 
